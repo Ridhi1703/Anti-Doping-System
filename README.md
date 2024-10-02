@@ -28,11 +28,11 @@ The **Anti-Doping System** is an innovative platform designed to enhance the int
 ## 🔧 Installation Guide
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/anti-doping-system.git
+   git clone https://github.com/Ridhi1703/Anti-Doping-System.git
    ```
 2. Navigate into the directory:
    ```bash
-   cd anti-doping-system
+   cd Anti-doping-system
    ```
 3. Install the required dependencies:
    ```bash
@@ -53,7 +53,7 @@ The **Anti-Doping System** is an innovative platform designed to enhance the int
 - [Pratik Wayal](https://github.com/pratikwayal01)
 - [Sagar Madankar](https://github.com/sagarmadankar)
 - [Ahmar Hilal](https://github.com/ahmarcode)
-- [Vaishnavi Ghumre](https://github.com/VGHUMRE1)
+- [Vaishnavi Ghumre](https://github.com/VGHUMARE1)
 - Aryan Shende
 
 
