@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 Feel free to reach out with any questions or feedback:
 - **Email**: vernekarriddhi246@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/riddhi-vernekar-b227a8237)
+- **LinkedIn**: [Riddhi_vernekar](https://www.linkedin.com/in/riddhi-vernekar-b227a8237)
